@@ -1,4 +1,4 @@
-# Derrick Bediako — One-page portfolio
+# AKakpo Derrick Bediako — One-page portfolio
 
 A static, responsive one-page portfolio with:
 - smooth scrolling
