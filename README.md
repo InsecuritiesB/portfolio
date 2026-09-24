@@ -8,9 +8,4 @@ A static, responsive one-page portfolio with:
 - responsive mobile layout
 - no framework or build step
 
-## Before publishing
-Open `script.js` and replace:
-- `email`
-- `linkedin`
-- `cv`
 
