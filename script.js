@@ -1,7 +1,7 @@
 // PERSONAL DETAILS: replace these three values before publishing.
 const SITE = {
-  email: 'YOUR_EMAIL@example.com',
-  linkedin: 'YOUR_LINKEDIN_URL',
+  email: 'akakpobediako@gmail.com',
+  linkedin: 'www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
   cv: 'YOUR_CV_URL'
 };
 
