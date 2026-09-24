@@ -14,5 +14,3 @@ Open `script.js` and replace:
 - `linkedin`
 - `cv`
 
-## Publish
-Upload the entire folder to any static host such as GitHub Pages, Netlify, Vercel, or Cloudflare Pages. The site is ready as plain HTML/CSS/JS.
