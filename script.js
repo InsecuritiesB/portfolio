@@ -1,7 +1,7 @@
-// PERSONAL DETAILS: replace these three values before publishing.
+// PERSONAL DETAILS:
 const SITE = {
   email: 'akakpobediako@gmail.com',
-  linkedin: 'www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
+  linkedin: 'http://www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
   cv: 'YOUR_CV_URL'
 };
 
@@ -29,5 +29,5 @@ if (linkedIn && SITE.linkedin && !SITE.linkedin.startsWith('YOUR_')) linkedIn.hr
 
 document.querySelector('#cvButton').addEventListener('click', () => {
   if (SITE.cv && !SITE.cv.startsWith('YOUR_')) window.open(SITE.cv, '_blank', 'noopener');
-  else alert('Add your public CV link in script.js before publishing.');
+
 });
