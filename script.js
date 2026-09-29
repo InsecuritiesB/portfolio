@@ -1,7 +1,7 @@
 // PERSONAL DETAILS: replace these three values before publishing.
 const SITE = {
   email: 'akakpobediako@gmail.com',
-  linkedin: 'www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
+  linkedin: 'http://www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
   cv: 'https://drive.google.com/file/d/1cUrEVDwhWTqyy6EpDwPjOthS0xTIzi7b/view?usp=sharing'
 };
 
