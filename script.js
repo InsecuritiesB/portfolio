@@ -1,8 +1,8 @@
 // PERSONAL DETAILS: replace these three values before publishing.
 const SITE = {
-  email: 'YOUR_EMAIL@example.com',
-  linkedin: 'YOUR_LINKEDIN_URL',
-  cv: 'YOUR_CV_URL'
+  email: 'akakpobediako@gmail.com',
+  linkedin: 'www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
+  cv: 'https://drive.google.com/file/d/1cUrEVDwhWTqyy6EpDwPjOthS0xTIzi7b/view?usp=sharing'
 };
 
 document.querySelector('#year').textContent = new Date().getFullYear();
@@ -29,5 +29,4 @@ if (linkedIn && SITE.linkedin && !SITE.linkedin.startsWith('YOUR_')) linkedIn.hr
 
 document.querySelector('#cvButton').addEventListener('click', () => {
   if (SITE.cv && !SITE.cv.startsWith('YOUR_')) window.open(SITE.cv, '_blank', 'noopener');
-  else alert('Add your public CV link in script.js before publishing.');
 });
