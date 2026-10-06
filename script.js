@@ -2,7 +2,7 @@
 const SITE = {
   email: 'akakpobediako@gmail.com',
   linkedin: 'http://www.linkedin.com/in/akakpo-derrick-bediako-819aa9249',
-  cv: 'https://drive.google.com/file/d/1cUrEVDwhWTqyy6EpDwPjOthS0xTIzi7b/view?usp=sharing'
+  cv: 'https://drive.google.com/file/d/1Urw9MgRDCbb5qZYdbn6wTYndxaQktUQk/view?usp=drive_link'
 };
 
 document.querySelector('#year').textContent = new Date().getFullYear();
